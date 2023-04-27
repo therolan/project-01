@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ObatAlami",
+    "description": "",
+    "home_page_url": "https://m.obatalami.njg.engineering.virginia.edu",
+    "feed_url": "https://m.obatalami.njg.engineering.virginia.edu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://m.obatalami.njg.engineering.virginia.edu/manfaat-minyak-kutus-kutus-untuk-mengatasi-gatal-pada-kulit.html",
+            "url": "https://m.obatalami.njg.engineering.virginia.edu/manfaat-minyak-kutus-kutus-untuk-mengatasi-gatal-pada-kulit.html",
+            "title": "Manfaat Minyak Kutus-Kutus untuk Mengatasi Gatal pada Kulit",
+            "summary": "Jika Anda sering merasa gatal pada kulit, Anda mungkin sudah mencoba berbagai cara untuk mengatasinya, seperti menggunakan lotion atau salep&hellip;",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Herbal"
+            ],
+            "date_published": "2023-04-27T19:00:11+07:00",
+            "date_modified": "2023-04-27T19:05:34+07:00"
+        }
+    ]
+}
