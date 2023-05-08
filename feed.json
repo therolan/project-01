@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://m.obatalami.njg.engineering.virginia.edu/pohon-kelor-mengenal-tanaman-ajaib-yang-kaya-manfaat.html",
+            "url": "https://m.obatalami.njg.engineering.virginia.edu/pohon-kelor-mengenal-tanaman-ajaib-yang-kaya-manfaat.html",
+            "title": "Pohon Kelor - Mengenal Tanaman Ajaib yang Kaya Manfaat",
+            "summary": "Pohon kelor, atau Moringa oleifera, adalah tanaman yang berasal dari India, Pakistan, dan Bangladesh. Tanaman ini memiliki banyak manfaat bagi&hellip;",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Herbal"
+            ],
+            "date_published": "2023-05-08T16:34:01+07:00",
+            "date_modified": "2023-05-08T16:34:01+07:00"
+        },
+        {
+            "id": "https://m.obatalami.njg.engineering.virginia.edu/khasiat-daun-kelor-manfaat-luar-biasa-untuk-kesehatan.html",
+            "url": "https://m.obatalami.njg.engineering.virginia.edu/khasiat-daun-kelor-manfaat-luar-biasa-untuk-kesehatan.html",
+            "title": "Khasiat Daun Kelor: Manfaat Luar Biasa untuk Kesehatan",
+            "summary": "Daun kelor telah dikenal sejak lama sebagai tanaman yang memiliki banyak manfaat bagi kesehatan. Tanaman ini sering ditemukan di lingkungan&hellip;",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Herbal"
+            ],
+            "date_published": "2023-05-08T15:42:06+07:00",
+            "date_modified": "2023-05-08T15:42:06+07:00"
+        },
+        {
             "id": "https://m.obatalami.njg.engineering.virginia.edu/minyak-but-but-hpai-obat-alami-untuk-berbagai-masalah-kesehatan.html",
             "url": "https://m.obatalami.njg.engineering.virginia.edu/minyak-but-but-hpai-obat-alami-untuk-berbagai-masalah-kesehatan.html",
             "title": "Minyak But-But HPAI: Obat Alami untuk Berbagai Masalah Kesehatan",
@@ -21,7 +49,7 @@
                    "Herbal"
             ],
             "date_published": "2023-05-06T19:36:04+07:00",
-            "date_modified": "2023-05-06T19:36:04+07:00"
+            "date_modified": "2023-05-08T16:35:06+07:00"
         },
         {
             "id": "https://m.obatalami.njg.engineering.virginia.edu/manfaat-madu-bajakah-menjaga-kesehatan-dengan-lezatnya-madu-asli-indonesia.html",
